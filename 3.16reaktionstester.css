@@ -1,0 +1,19 @@
+body{
+    background-color: yellow;  border: 5px; border-color: red; 
+    font-family: sans-serif;
+    border: 13px solid red;
+    
+}
+
+#form{
+
+display: none;
+position: relative;
+
+}
+
+.bold{
+    
+    font-weight: bold;
+    
+}
